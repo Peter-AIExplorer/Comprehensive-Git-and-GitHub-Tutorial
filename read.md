@@ -4,10 +4,10 @@ Welcome to the Git and GitHub Tutorial! This repository contains a comprehensive
 
 ## Table of Contents
 
-- [Getting Started with Git](#getting_started.md)
-- [Branching and Merging](#branching_merging.md)
-- [Merge Conflicts](#merge_conflicts.md)
-- [Advanced Git](#advanced_git.md)
+- [Getting Started with Git](getting_started.md)
+- [Branching and Merging](branching_merging.md)
+- [Merge Conflicts](merge_conflicts.md)
+- [Advanced Git](advanced_git.md)
 - [Contributing](#contributing)
 - [License](#license)
 
