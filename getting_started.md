@@ -115,7 +115,7 @@ GitHub allows you to store repositories remotely on the cloud, enabling collabor
 
 ## Setting Up GitHub
 
-1. **Sign up or sign in to GitHub.**
+1. **Sign up or sign in to [GitHub](https://github.com/).**
 2. **Create a new repository:**
    - Choose a name.
    - Select **public** or **private**.
